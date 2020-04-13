@@ -10,7 +10,11 @@
 
 [**B站视频**](https://www.bilibili.com/video/BV18E411F7YA?from=search&seid=15826476053320498328)
 
-gtee代码仓库
+### 代码：
+
+[gitee代码仓库](https://gitee.com/bright_liang_liang/non_standard_equipment_design/tree/master/%E5%8D%9A%E5%AE%A2%E5%A4%87%E4%BB%BD%E4%BB%93%E5%BA%93/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E6%8A%80%E6%A0%91/python%E7%9B%B8%E5%85%B3/%E5%87%BD%E6%95%B0%E5%BC%8F%E7%BC%96%E7%A8%8B)
+
+[github](https://github.com/yuanshaohui/machine-design-python-idea/tree/master/%E5%8D%9A%E5%AE%A2%E5%A4%87%E4%BB%BD%E4%BB%93%E5%BA%93/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E6%8A%80%E6%A0%91/python%E7%9B%B8%E5%85%B3/%E5%87%BD%E6%95%B0%E5%BC%8F%E7%BC%96%E7%A8%8B)
 
 ## 三：内容
 
